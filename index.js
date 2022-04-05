@@ -98,7 +98,7 @@ module.exports = async (skipLatestCheck = false, port = 8080, openInBrowser = tr
   app.use('/', express.static(LATEST_ASSET_DIR))
 
   const url = `http${!useHttp ? 's' : ''}://localhost:${port}`
-  console.log(`Serving Liquality Atomic Swap on ${url}`)
+  console.log(`Serving Ecla Atomic Swap on ${url}`)
 
   if (useHttp) {
     app.listen(port)
