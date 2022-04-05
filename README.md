@@ -1,7 +1,7 @@
 # Ecla <img align="right" src="https://github.com/cyberbrides/ecla/blob/55265cd2363b6478fa84756f308ce3459d0e7002/img/logo.png" height="80px" />
 
 
-A handy tool to quickly get started with Ecla Atomic Swap (https://liquality.io)
+A handy tool to quickly get started with Ecla Atomic Swap (https://ecla.net)
 
 
 ## Usage
