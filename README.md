@@ -3,7 +3,6 @@
 
 A handy tool to quickly get started with Ecla Atomic Swap (https://ecla.net)
 
-
 ## Usage
 
 ```
